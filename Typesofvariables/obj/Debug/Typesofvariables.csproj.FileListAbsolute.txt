@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Typesofvariables\Typesofvariables\bin\Debug\Typesofvariables.exe.config
+C:\Users\Admin\source\repos\Typesofvariables\Typesofvariables\bin\Debug\Typesofvariables.exe
+C:\Users\Admin\source\repos\Typesofvariables\Typesofvariables\bin\Debug\Typesofvariables.pdb
+C:\Users\Admin\source\repos\Typesofvariables\Typesofvariables\obj\Debug\Typesofvariables.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Typesofvariables\Typesofvariables\obj\Debug\Typesofvariables.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Typesofvariables\Typesofvariables\obj\Debug\Typesofvariables.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Typesofvariables\Typesofvariables\obj\Debug\Typesofvariables.exe
+C:\Users\Admin\source\repos\Typesofvariables\Typesofvariables\obj\Debug\Typesofvariables.pdb
